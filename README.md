@@ -1,6 +1,10 @@
 # AdGuard-DNS
 
-# COPY THIS --->
+# COPY ONE OUT OF THESE --->
 ```powershell
 dns.adguard.com
+```
+
+```powershell
+://adguard-dns.com
 ```
