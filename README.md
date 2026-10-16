@@ -1,6 +1,6 @@
 # AdGuard-DNS
 
 # COPY THIS --->
-```cmd
+```powershell
 dns.adguard.com
 ```
